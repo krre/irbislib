@@ -1,5 +1,5 @@
 QT += core
 
 CONFIG += c++11
-TARGET = irbis
+TARGET = ../../../build/irbis
 TEMPLATE = lib
