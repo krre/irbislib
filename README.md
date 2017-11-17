@@ -1,4 +1,4 @@
-# Irbislib
+# IrbisLib
 Library for Irbis Qt projects
 
 ## Dependencies
