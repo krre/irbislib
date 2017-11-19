@@ -1,5 +1,6 @@
 QT += core
 
 CONFIG += c++11
-TARGET = ../../../build/irbis
+TARGET = irbis
 TEMPLATE = lib
+DESTDIR = $$(IRBIS_HOME)/build
