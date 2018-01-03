@@ -1,6 +1,9 @@
 #include "Utils.h"
 
-Utils::Utils()
-{
+namespace IrbisLib {
+
+Utils::Utils() {
 
 }
+
+} // IrbisLib

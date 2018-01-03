@@ -8,4 +8,8 @@ QTextStream& qStdOut() {
     return ts;
 }
 
+class Utils {
+    Utils();
+};
+
 } // IrbisLib
