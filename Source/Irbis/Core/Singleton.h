@@ -1,6 +1,8 @@
 #pragma once
 #include <QtGlobal>
 
+namespace IrbisLib {
+
 template <class T> class Singleton {
 
 public:
@@ -30,3 +32,5 @@ private:
 };
 
 template <class T> T* Singleton<T>::_instance = nullptr;
+
+} // IrbisLib

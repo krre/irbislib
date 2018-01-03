@@ -9,3 +9,6 @@ DESTDIR = $$(IRBIS_HOME)/build
 DISTFILES += \
     ../README.md \
     ../.gitignore
+
+HEADERS += \
+    Irbis/Core/Singleton.h
