@@ -11,4 +11,8 @@ DISTFILES += \
     ../.gitignore
 
 HEADERS += \
-    Irbis/Core/Singleton.h
+    IrbisLib/Core/Singleton.h \
+    IrbisLib/Core/Utils.h
+
+SOURCES += \
+    IrbisLib/Core/Utils.cpp
