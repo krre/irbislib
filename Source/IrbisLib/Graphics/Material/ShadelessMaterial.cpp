@@ -37,7 +37,7 @@ ShadelessMaterial::ShadelessMaterial() {
 }
 
 void ShadelessMaterial::setColor(const QColor& color) {
-    QVector3D vec3(color.red(), color.green(), color.blue());
+    QVector3D vec3(color.redF(), color.greenF(), color.blueF());
     parameter->setValue(vec3);
 }
 
