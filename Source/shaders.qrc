@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IrbisLib/Graphics/Shaders/Shadeless.frag</file>
+        <file>IrbisLib/Graphics/Shaders/Shadeless.vert</file>
+    </qresource>
+</RCC>
